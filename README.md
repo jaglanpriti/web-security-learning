@@ -1,29 +1,37 @@
+Hi, I'm Priti 👋
 
-# Hi, I'm Priti 👋
+Aspiring Cybersecurity Professional | Web Security Learner
 
-## About Me
-- BCA Graduate
-- Aspiring Cybersecurity Professional
-- Learning Linux, Kali Linux and Python
-- Exploring Web Security and Ethical Hacking
-- Interested in authorized security testing
+Welcome to my GitHub profile!
 
-## Technical Skills
-- Linux / Kali Linux
+I'm Priti, a beginner in cybersecurity with an interest in Web Application Security, Ethical Hacking, and Vulnerability Research.
+
+💻 Skills & Tools
+
+- Kali Linux
+- Burp Suite
+- Git & GitHub
 - Python (Beginner)
-- HTML
-- MS Word, Excel and PowerPoint
-- Burp Suite (Beginner)
+- HTML & Web Security Basics
 
-## Current Learning
-- Linux Commands
+🔐 Currently Learning
+
+- OWASP Top 10
 - Web Application Security
-- Cybersecurity Fundamentals
-- Python Programming
-- CTF Challenges
+- Vulnerability Assessment
+- Security Testing in Authorized Labs
 
-## My Goal
-To build practical cybersecurity skills through continuous learning and authorized hands-on projects.
+🎯 My Goals
 
----
-*Learning every day. Improving step by step.*
+- Build practical cybersecurity projects
+- Improve my technical skills
+- Learn responsible vulnerability reporting
+- Grow as a cybersecurity professional
+
+📌 Projects
+
+- Web Security Learning
+- Authorized Security Testing Labs
+- Beginner Security Research & Reports
+
+Learning every day. Securing the web, one step at a time. 🚀
