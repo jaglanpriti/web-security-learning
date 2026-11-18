@@ -25,6 +25,17 @@ I'm Priti, a beginner in cybersecurity with an interest in Web Application Secur
 
 - Build practical cybersecurity projects
 - Improve my technical skills
+- ![Linux](https://img.shields.io/badge/Linux-Kali-blue?logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Learning-orange?logo=burpsuite)
+![Python](https://img.shields.io/badge/Python-Beginner-yellow?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
+### 📊 My Focus
+- Web Application Security
+- SQL Injection
+- Burp Suite
+- OWASP Top 10
+- Ethical Hacking
 - Learn responsible vulnerability reporting
 - Grow as a cybersecurity professional
 
