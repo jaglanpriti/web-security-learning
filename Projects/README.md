@@ -1,29 +1,22 @@
+# 🔐 Cybersecurity Projects – Priti
 
-# Hi, I'm Priti 👋
-
-### Aspiring Cybersecurity Professional
-
-I'm learning Web Security, Ethical Hacking and Vulnerability Research.
-
-## Skills & Tools
-- Kali Linux
-- Burp Suite
-- Git & GitHub
-- Python Basics
-- MS Word, Excel & PowerPoint
-
-## Currently Learning
-- OWASP Top 10
-- Web Application Security
-- HTTP Requests & Responses
-- Authorized Security Testing
-
-## My Goal
-To build practical cybersecurity skills through hands-on labs and projects.
+Welcome to my practical cybersecurity learning portfolio.
 
 ## Projects
-- Web Security Learning
-- Security Testing Labs
-- Beginner Security Research
 
-🚀 Learning every day!
+### 1. Burp Suite Lab
+Learning web traffic analysis using Burp Suite.
+
+### 2. SQL Injection Lab
+Successfully completed SQL Injection Login Bypass lab.
+
+### 3. Web Security Basics
+Learning HTTP, web application security and OWASP Top 10.
+
+## Tools
+- Kali Linux
+- Burp Suite
+- GitHub
+
+## Current Focus
+Web Application Security & Ethical Hacking.
